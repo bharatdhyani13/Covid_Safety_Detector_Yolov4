@@ -17,7 +17,7 @@ Where to get the data in yolov4 format?
 
 2 ) If you cannot find data in this format only other option is to make your own data like I did using labelimg : https://github.com/tzutalin/labelImg
 
-I got the data from https://www.kaggle.com/alexandralorenzo/maskdetection and [here](https://esigelec-my.sharepoint.com/personal/cabani_esigelec_fr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fcabani%5Fesigelec%5Ffr%2FDocuments%2FMaskedFaceNetDataset%2FIMFD&originalPath=aHR0cHM6Ly9lc2lnZWxlYy1teS5zaGFyZXBvaW50LmNvbS86ZjovZy9wZXJzb25hbC9jYWJhbmlfZXNpZ2VsZWNfZnIvRWlyalM4ZXc3LTVMbk84STU2VWs2M3dCS2Vid1NsdWtGQkZCYU84TjI1d24zZz9ydGltZT0tUF9ldm1CLTJFZw).
+I got the mask/no_mask data from https://www.kaggle.com/alexandralorenzo/maskdetection and improper_mask from [here](https://esigelec-my.sharepoint.com/personal/cabani_esigelec_fr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fcabani%5Fesigelec%5Ffr%2FDocuments%2FMaskedFaceNetDataset%2FIMFD&originalPath=aHR0cHM6Ly9lc2lnZWxlYy1teS5zaGFyZXBvaW50LmNvbS86ZjovZy9wZXJzb25hbC9jYWJhbmlfZXNpZ2VsZWNfZnIvRWlyalM4ZXc3LTVMbk84STU2VWs2M3dCS2Vid1NsdWtGQkZCYU84TjI1d24zZz9ydGltZT0tUF9ldm1CLTJFZw).
 
 In order to train your own custom weights for a custom yolov4 object detector you need to follow this colab notebook : 
 
