@@ -39,8 +39,12 @@ python detect_video.py --weights ./checkpoints/custom-416 --size 416 --model yol
 python detect_video.py --weights ./checkpoints/custom-416 --size 416 --model yolov4 --video 0 --output ./detections/results.avi
 ```
 
-## Result on images
+## Result on Images
 
 <img src="https://github.com/bharatdhyani13/Covid_Safety_Detector_Yolov4/blob/main/detections/detection1.png" width="400">
 <img src="https://github.com/bharatdhyani13/Covid_Safety_Detector_Yolov4/blob/main/detections/detection2.png" width="400">
 <img src="https://github.com/bharatdhyani13/Covid_Safety_Detector_Yolov4/blob/main/detections/detection3.png" width="400">
+
+
+## Result on Videos
+![](https://github.com/bharatdhyani13/Covid_Safety_Detector_Yolov4/blob/main/detections/v.avi)
