@@ -47,4 +47,4 @@ python detect_video.py --weights ./checkpoints/custom-416 --size 416 --model yol
 
 
 ## Result on Videos
-![](https://github.com/bharatdhyani13/Covid_Safety_Detector_Yolov4/blob/main/detections/v.avi)
+<a href="{https://drive.google.com/drive/u/0/my-drive}" title="Link Title"><img src="" alt="Alternate Text" /></a>
