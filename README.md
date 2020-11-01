@@ -41,4 +41,4 @@ python detect_video.py --weights ./checkpoints/custom-416 --size 416 --model yol
 
 ## Result on images
 
-![](https://github.com/bharatdhyani13/Covid_Safety_Detector_Yolov4/blob/main/detections/detection1.png =250x250))![](https://github.com/bharatdhyani13/Covid_Safety_Detector_Yolov4/blob/main/detections/detection2.png =250x250))![](https://github.com/bharatdhyani13/Covid_Safety_Detector_Yolov4/blob/main/detections/detection3.png =250x250))
+![](https://github.com/bharatdhyani13/Covid_Safety_Detector_Yolov4/blob/main/detections/detection1.png width=100))![](https://github.com/bharatdhyani13/Covid_Safety_Detector_Yolov4/blob/main/detections/detection2.png width=100))![](https://github.com/bharatdhyani13/Covid_Safety_Detector_Yolov4/blob/main/detections/detection3.png width=100))
