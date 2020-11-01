@@ -9,12 +9,14 @@ Download all the prerequisits from requirement.txt or requirement-gpu.txt.
 
 YOLOv4 comes pre-trained with weights of 80 different classes. Download pre-trained yolov4.weights file: https://drive.google.com/open?id=1cewMfusmPjYWbrnuJRuKhPMwRe_b9PaT
 
-Copy and  As the weight files are large, I haven't uploaded them here.
+Copy and paste them into the 'data' folder of this repository. As the weight files are large, I haven't uploaded them here.
 
 # Getting the data
 Where to get the data in yolov4 format?
 
-https://storage.googleapis.com/openimages/web/index.html : This has around 600 different classes of images available in yolov4 format. If you cannot find data in this format only other option is to make your own data like I did using labelimg : https://github.com/tzutalin/labelImg
+1 ) This has around 600 different classes of images available in yolov4 format.  https://storage.googleapis.com/openimages/web/index.html 
+
+2 ) If you cannot find data in this format only other option is to make your own data like I did using labelimg : https://github.com/tzutalin/labelImg
 
 In order to train your own custom weights for a custom yolov4 object detector you need to follow this colab notebook : 
 
