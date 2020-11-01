@@ -47,4 +47,8 @@ python detect_video.py --weights ./checkpoints/custom-416 --size 416 --model yol
 
 
 ## Result on Videos
+
+<video width="320" height="240" controls>
+  <source src="https://github.com/bharatdhyani13/Covid_Safety_Detector_Yolov4/blob/main/detections/v.avi" type="video/mp4">
+</video>
 ![](https://github.com/bharatdhyani13/Covid_Safety_Detector_Yolov4/blob/main/detections/v.avi)
