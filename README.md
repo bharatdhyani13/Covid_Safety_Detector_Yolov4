@@ -52,4 +52,5 @@ See v.avi from here : (https://github.com/bharatdhyani13/Covid_Safety_Detector_Y
 
 # Sources
 https://github.com/theAIGuysCode/tensorflow-yolov4-tflite
+
 https://colab.research.google.com/drive/1-jJtE45jQfmA1a2Um4SD3HJAnB2N583R?usp=sharing
