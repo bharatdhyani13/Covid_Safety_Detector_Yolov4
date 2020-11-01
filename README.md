@@ -47,4 +47,9 @@ python detect_video.py --weights ./checkpoints/custom-416 --size 416 --model yol
 
 
 ## Result on Videos
-<a href="{https://drive.google.com/drive/u/0/my-drive}" title="Link Title"><img src="" alt="Alternate Text" /></a>
+
+See v.avi from here : (https://github.com/bharatdhyani13/Covid_Safety_Detector_Yolov4/blob/main/detections/)
+
+# Sources
+https://github.com/theAIGuysCode/tensorflow-yolov4-tflite
+https://colab.research.google.com/drive/1-jJtE45jQfmA1a2Um4SD3HJAnB2N583R?usp=sharing
